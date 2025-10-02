@@ -1,0 +1,5 @@
+gitdb==4.0.12
+GitPython==3.1.41
+loguru==0.7.3
+setuptools==75.6.0
+smmap==5.0.2
